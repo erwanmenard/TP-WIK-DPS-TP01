@@ -17,3 +17,4 @@ Pour lancer l’API, démarrez le serveur à l'aide de la commande "npm run star
 
 Par défaut, l’API sera accessible sur le port 8080. Si vous voulez qu’elle fonctionne sur un port différent, vous pouvez définir la variable d’environnement PING_LISTEN_PORT pour choisir un autre port (par exemple, 3000).
 exemple : "PING_LISTEN_PORT=3000 npm run start"
+
